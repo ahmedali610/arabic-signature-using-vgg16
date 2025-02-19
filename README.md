@@ -65,6 +65,8 @@ kaggle datasets download ahmedemadeldeen/arabic-signature-data
 - The model predicts whether a given Arabic signature is **real** or **fake**.
 - Performance metrics like accuracy, precision, recall, and F1-score are used for evaluation.
 - Below is a visualization of the training and validation accuracy over epochs:
+
+  
 ![download (8)](https://github.com/user-attachments/assets/bead9126-b3da-4434-9334-6fcce572296c)
 
 
